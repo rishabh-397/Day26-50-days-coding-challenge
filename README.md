@@ -1,5 +1,6 @@
 # Day26-50-days-coding-challenge
 🔸 Problem 1: Binary Tree Inorder Traversal
+
 📌 Problem Statement:
 Given the root of a binary tree, return its inorder traversal (left ➡ root ➡ right).
 
@@ -21,7 +22,9 @@ Output: [1,3,2]
 
 Input: [1,2,3,4,5,null,8,null,null,6,7,9]
 Output: [4,2,6,5,7,1,3,9,8]
+
 🔸 Problem 2: Find First and Last Position of Element in Sorted Array
+
 📌 Problem Statement:
 Given a sorted array nums and a target target, return the starting and ending position of the target value.
 If target is not found, return [-1, -1].
@@ -48,6 +51,7 @@ Output: [3,4]
 
 Input: nums = [5,7,7,8,8,10], target = 6
 Output: [-1,-1]
+
 📌 Time Complexity: O(log n)
 📌 Space Complexity: O(1)
 
